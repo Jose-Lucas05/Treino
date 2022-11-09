@@ -1,2 +1,2 @@
 # Treino
- treinando Rl
+ Treinando, Relembrando
